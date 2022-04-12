@@ -18,7 +18,7 @@ border: 1px solid black;
 background-color: #2C70AE;
 color: white;
 height: 25px;
-  margin-buttom:1em;
+  margin-buttom:2.5em;
 }
 .animeInfo1{
  position: absolute;
@@ -29,7 +29,7 @@ border: none;
   background-color: whitesmoke;
   width: 20em;
 height: 15em;
-margin-top: 4em;
+margin-top: 3em;
 border-radius: 5px;
 }
 .quote-left{
