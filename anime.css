@@ -12,25 +12,26 @@ section{
   
 }
 #generate{
-margin-top: 2em;
+margin-top: 1em;
 border-radius: 5px;
 border: 1px solid black;
 background-color: #2C70AE;
 color: white;
-height: 25px;
-  margin-buttom:2.5em;
+height: 20px;
+
 }
 .animeInfo1{
- position: absolute;
+position: absolute;
  top: 50%;
  left: 50%;
  transform: translate(-50%,-50%);
 border: none;
   background-color: whitesmoke;
   width: 20em;
-height: 15em;
-margin-top: 3em;
+height: 20em;
+margin-top: 5em;
 border-radius: 5px;
+display: table;
 }
 .quote-left{
  width: 35px;
